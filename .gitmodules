@@ -1,0 +1,3 @@
+[submodule "go-web-app"]
+	path = go-web-app
+	url = https://github.com/selmanulfarisy/go-web-app.git
