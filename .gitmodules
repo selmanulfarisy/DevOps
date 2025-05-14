@@ -1,3 +1,6 @@
 [submodule "go-web-app"]
 	path = go-web-app
 	url = https://github.com/selmanulfarisy/go-web-app.git
+[submodule "go-web-app-devops"]
+	path = go-web-app-devops
+	url = https://github.com/iam-veeramalla/go-web-app-devops.git
